@@ -1,8 +1,8 @@
-# Echo Music Canvas
-
 <p align="center">
   <img src="App Logo/echo.png" alt="Echo Music Logo" width="120" height="120" style="border-radius: 24px;" />
 </p>
+
+<h1 align="center">Echo Music Canvas</h1>
 
 Implementing a new way to get beautiful custom canvas background videos for the **Echo Music** app.
 
